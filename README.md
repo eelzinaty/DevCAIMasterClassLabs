@@ -30,7 +30,7 @@ In order to use tensorflow and applying basic deep learning example we are going
 ##### 4. [Introduction to Tensorflow](https://github.com/eelzinaty/GazaDevFest17/blob/master/Tensorflow%20Introduction.ipynb)
  
 ##### 5. Sample Code Lab
- * Code Sample for Simple Linear Model [Code](https://github.com/eelzinaty/GazaDevFest17/blob/master/Simple%20Linear%20Model.ipynb)
+ * [Code Lab 1](https://github.com/eelzinaty/DevCAIMasterClassLabs/tree/master/Lab1)
  
  ##### 6. Learning Resources
 - Get started with [Tensorflow](https://www.tensorflow.org/)
