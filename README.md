@@ -1,4 +1,4 @@
-# DevCAIMasterClassLabs
+# DevC AI Masterclass Labs
 This repo contains code labs that demonstrate what have been tought on DevC Masterclass AI
 
 ### Installing and Using Docker
