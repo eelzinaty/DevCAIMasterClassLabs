@@ -8,6 +8,7 @@ In order to use tensorflow and applying basic deep learning example we are going
 ##### 1. Install docker for windows
  
  * To run Docker, your machine must have a 64-bit operating system running Windows 7 or higher.
+ * You must make sure that [virtualization is enabled](https://docs.docker.com/toolbox/toolbox_install_windows/#step-1-check-your-version) on your machine. 
  * Make sure that [Hyper-V is disabled](https://superuser.com/questions/540055/convenient-way-to-enable-disable-hyper-v-in-windows-8) if it is installed on your pc.
  * If you are using Windows 10 you can directly download docker and install it from [Docker Store](https://store.docker.com/editions/community/docker-ce-desktop-windows).
  * Otherwise, you can download and install [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/).
